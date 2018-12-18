@@ -40,5 +40,20 @@
     "dev:hot": "webpack-dev-server --hot --inline --progress --colors --watch --display-error-details --display-cached --content-base ./",
     "test:watch": "npm run test -- --watch",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "## Objectives",
+  "main": "webpack.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbaradecares/react-component-mounting-and-unmounting-lab-houston-web-100818.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barbaradecares/react-component-mounting-and-unmounting-lab-houston-web-100818/issues"
+  },
+  "homepage": "https://github.com/barbaradecares/react-component-mounting-and-unmounting-lab-houston-web-100818#readme"
 }
